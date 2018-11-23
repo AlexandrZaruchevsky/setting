@@ -1,0 +1,9 @@
+[{Idea + git}]
+
+git remote add origin https://github.com/AlexandrZaruchevsky/MyTest.git - добавляем репозиторий git
+
+git push -u origin master - Отправляем изменения на github
+
+{Idea + git}:{Hot-Key}
+
+Ctrl+Shift+K - Отправляем изменения на github
